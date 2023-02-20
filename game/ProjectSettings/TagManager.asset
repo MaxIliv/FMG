@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - Weapon
+  - AA
+  - Enemy
+  - Stage
+  - CameraPath
+  - Stages
+  - Path
+  - Interactive
+  - Chest
+  - Torch
+  - Tile
+  - Waypoint
+  - TextEffects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Tile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG-1
+    uniqueID: 730440073
+    locked: 0
+  - name: BG
+    uniqueID: 341897493
+    locked: 0
+  - name: Map
+    uniqueID: 2128359695
+    locked: 0
+  - name: Roads
+    uniqueID: 206108073
+    locked: 0
+  - name: Player
+    uniqueID: 2598464879
+    locked: 0
+  - name: FG
+    uniqueID: 552862467
+    locked: 0
+  - name: UI
+    uniqueID: 3884109239
+    locked: 0
